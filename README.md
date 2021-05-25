@@ -1,4 +1,4 @@
 # IntroGitHub
 RCC workshop May25 Intro Materials
 
-This is an example.
+These materials were used in the Getting Started with GitHub session. 
